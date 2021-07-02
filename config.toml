@@ -101,7 +101,7 @@ font_size_small = "25"
       [languages.en.params.search]
         enable = true
         # type of search engine ("lunr", "algolia")
-        type = "lunr"
+        type = "algolia"
         # max index length of the chunked content
         contentLength = 4000
         # placeholder of the search bar
@@ -588,6 +588,16 @@ font_size_small = "25"
   isPlainText = true
   isHTML = false
 
+[outputFormats.Algolia]
+baseName = "algolia"
+isPlainText = true
+mediaType = "application/json"
+notAlternative = true
+
+[params.algolia]
+vars = ["title", "summary", "date", "publishdate", "permalink", "content"]
+params = ["categories", "tags"]
+
 # Options to make hugo output files
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "Algolia"]

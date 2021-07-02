@@ -1,1 +1,18 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Behind the codes</title><link>http://example.org/</link><description>About LoveIt Theme</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nhatnh236@gmail.com (Nhatnh236)</managingEditor><webMaster>nhatnh236@gmail.com (Nhatnh236)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Jun 2021 01:26:34 +0700</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>First_post</title><link>http://example.org/first_post/</link><pubDate>Thu, 17 Jun 2021 01:26:34 +0700</pubDate><author>Author</author><guid>http://example.org/first_post/</guid><description><![CDATA[WARN 2021/06/17 01:26:16 found no layout file for &ldquo;JSON&rdquo; for kind &ldquo;home&rdquo;: You should create a template file which matches Hugo Layouts Lookup Rules for this combination. Total in 14 ms]]></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Behind the codes</title>
+        <link>http://example.org/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nhatnh236@gmail.com (Nhatnh236)</managingEditor>
+            <webMaster>nhatnh236@gmail.com (Nhatnh236)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 17 Jun 2021 01:26:34 &#43;0700</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>About Me</title>
+    <link>http://example.org/about-me/</link>
+    <pubDate>Thu, 17 Jun 2021 01:26:34 &#43;0700</pubDate>
+    <author>Author</author>
+    <guid>http://example.org/about-me/</guid>
+    <description><![CDATA[About Me Xin chào các bạn, mình là Nguyễn Hải Nhật.
+Lighthouse (image)" Lighthouse (image)  Mình bắt đầu đam mê với những dòng code khi còn học Pascal ở thời phổ thông, hồi đó cảm thấy nó thật ma mị và đắm chìm trong nó. Chớ trêu thay, thi lại học mình lại thi ngành Cơ học kĩ thuật của VNU 😄, tuy nhiên đam mê với IT là bất diện (Hiphop never die, IT never sai 🤣) năm hai mình đã chuyển sang văn bằng hai Công nghệ thông tin, từ đó mình đã thực sự là một tín đồ của môn phải này haha.]]></description>
+</item></channel>
+</rss>
