@@ -1,3 +1,4 @@
+# npm run algolia
 [build]
   publish = "public"
   command = "hugo"
